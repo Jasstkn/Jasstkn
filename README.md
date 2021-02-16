@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/maria.kotlyarevskaya/">
   <img align="left" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br>
 
 I'm a DevOps engineer with 3+ years of experience, strong knowledge of Kubernetes and Public Clouds.
 
