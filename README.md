@@ -11,6 +11,8 @@
 </a>
 <br>
 
+---
+
 
 I'm a DevOps engineer with 3+ years of experience, strong knowledge of Kubernetes and Public Clouds.
 
