@@ -4,7 +4,6 @@
   <img align="left" alt="Maria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
----
 
 I'm a DevOps engineer with 3+ years of experience, strong knowledge of Kubernetes and Public Clouds.
 
