@@ -14,13 +14,15 @@
 I'm a DevOps engineer with 3+ years of experience, strong knowledge of Kubernetes and Public Clouds.
 
 I also have a wide experience with the following technologies and tools:
-- Cloud providers: AWS, GCP
-- Infrastructure: Terraform, Ansible
-- Monitoring: Grafana, Alertmanager, Prometheus + Thanos
+- Cloud providers: AWS, GCP, Hetzner;
+- IaC: Terraform, Ansible;
+- Containerization: Docker, Docker compose, Kubernetes;
+- DevOps practices: SRE, on-call, incident-management, hands-on documentation, DRY code, and many more;
+- Security: Vault, docker security scanning, Kubernetes security best-practices
+- Monitoring: Grafana, Alertmanager, Prometheus + Thanos, Victoria Metrics, various exporters;
 - Logging: ELK/EFK, Loki, Stackdriver
-- Apps: Docker, Kubernetes
-- CI/CD: Jenkins, GitlabCI, Github Actions, CircleCI, Helm (+ Helmfile), Flux, ArgoCD
-- Programming: Python, Golang, Bash
+- CI/CD: Jenkins, GitlabCI, Github Actions, CircleCI, Helm (+ Helmfile), Flux(v1), ArgoCD, Fleet
+- Programming: Python, Bash, Golang
 
 I would like to be a part of ambitious and challenging project. Looking for interesting opportunities and modern tech stack.  
 
