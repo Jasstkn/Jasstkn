@@ -17,7 +17,7 @@
 ---
 
 
-I'm a DevOps engineer with 3+ years of experience, strong knowledge of Kubernetes and Public Clouds.
+I'm a DevOps engineer with 4+ years of experience, strong knowledge of Kubernetes and Public Clouds.
 
 I also have a wide experience with the following technologies and tools:
 - Cloud providers: AWS, GCP, Hetzner;
