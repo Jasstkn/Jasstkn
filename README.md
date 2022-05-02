@@ -12,7 +12,7 @@
 <a href="https://exercism.org/profiles/Jasstkn">
   <img align="left" alt="Maria's exercism profile" height="30px" src="https://raw.githubusercontent.com/exercism/website-icons/main/exercism/icon-and-word.svg" />
 </a>
-<a href="https://www.codewars.com/users/Jasstkn/badges/large">
+<a href="https://www.codewars.com/users/Jasstkn">
   <img align="left" alt="Maria's codewars profile" height="30px" src="https://www.codewars.com/users/Jasstkn/badges/large" />
 </a>
 <br>
