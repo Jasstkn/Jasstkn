@@ -35,7 +35,12 @@ I also have a wide experience with the following technologies and tools:
 
 I would like to be a part of ambitious and challenging project. Looking for interesting opportunities and modern tech stack.  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jasstkn&show_icons=true&hide_title=true" alt="jasstkn" /></p>
+<a href="https://github.com/jasstkn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasstkn&show_icons=true&hide_title=true" />
+</a>
+<a href="https://github.com/jasstkn/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasstkn&layout=compact" />
+</a>
 
 <!--
 **Jasstkn/Jasstkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
