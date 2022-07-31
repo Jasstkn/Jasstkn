@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/maria-kotlyarevskaya/">
   <img align="left" alt="Maria's LinkedIN" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://mariarti0644.medium.com12345">
+<a href="https://mariarti0644.medium.com">
   <img align="left" alt="Maria's medium profile" height="30px" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" />
 </a>
 <a href="https://t.me/devoops_notes">
