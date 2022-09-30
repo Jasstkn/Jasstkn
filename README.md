@@ -19,21 +19,9 @@
 
 ---
 
-
 I'm an engineer with 4+ years of experience, strong knowledge of Kubernetes and Public Clouds.
 
-I also have a wide experience with the following technologies and tools:
-- Cloud providers: AWS, GCP, Hetzner;
-- IaC: Terraform, Ansible;
-- Containerization: Docker, Docker compose, Kubernetes;
-- DevOps practices: SRE, on-call, incident-management, hands-on documentation, DRY code, and many more;
-- Security: Vault, docker security scanning, Kubernetes security best-practices;
-- Monitoring: Grafana, Alertmanager, Prometheus + Thanos, Victoria Metrics, various exporters;
-- Logging: ELK/EFK, Loki, Stackdriver;
-- CI/CD: Jenkins, GitlabCI, Github Actions, CircleCI, Helm (+ Helmfile), Flux(v1), ArgoCD, Fleet;
-- Programming: Python, Bash, Golang.
-
-I would like to be a part of ambitious and challenging project. Looking for interesting opportunities and modern tech stack.  
+I would like to be a part of ambitious and challenging project. Looking for interesting opportunities and modern tech stack.
 
 <a href="https://github-readme-stats.vercel.app/api?username=jasstkn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jasstkn&show_icons=true&include_all_commits=true&hide_border=true" alt="Jasstkn's github stats" /></a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasstkn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasstkn&layout=compact&hide_border=true" /></a>
 
