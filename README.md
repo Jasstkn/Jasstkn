@@ -19,7 +19,7 @@
 
 ---
 
-I'm an engineer with 4+ years of experience, strong knowledge of Kubernetes and Public Clouds.
+I'm an engineer with 5+ years of experience, strong knowledge of Kubernetes and Public Clouds.
 
 I would like to be a part of ambitious and challenging project. Looking for interesting opportunities and modern tech stack.
 
