@@ -1,4 +1,4 @@
-### Maria Kotlyarevskaya (@jasstkn) 👋
+### Maria Kotliarevskaia (@jasstkn) 👋
 
 <a href="https://www.linkedin.com/in/maria-kotlyarevskaya/">
   <img align="left" alt="Maria's LinkedIN" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
