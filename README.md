@@ -1,6 +1,6 @@
 ### Maria Kotliarevskaia (@jasstkn) 👋
 
-<a href="https://www.linkedin.com/in/maria-kotlyarevskaya/">
+<a href="https://www.linkedin.com/in/maria-kotliarevskaia/">
   <img align="left" alt="Maria's LinkedIN" height="30px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://mariarti0644.medium.com">
